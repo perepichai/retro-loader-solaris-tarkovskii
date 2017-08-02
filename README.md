@@ -1,1 +1,1 @@
-# retro loader using tweenmax js library for animation. Run index.js
+# retro loader using tweenmax js library for animation. Run index.html
